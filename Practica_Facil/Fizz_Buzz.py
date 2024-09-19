@@ -18,5 +18,4 @@ def  function(nums):
             if (nums[i] % 5 == 0):
                 print("buzz")
             
-        
 function(nums)
